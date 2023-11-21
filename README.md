@@ -29,30 +29,40 @@ Follow the on-screen instructions to choose the type of equation you want to sol
 - Enter `3` to solve a System of Linear Equations.
 - Enter `4` to exit the program.
 
-Note: Avoid entering characters as input, as it may break the program.
+Note: Always write the coefficient before a variable, even if it is 1 or 0. For example, instead of x^2 - 2 = 0, write 1x^2 + 0x - 2 = 0.
 
 ## Examples
 
 ### Linear Equation
 
 ```
-Enter the coefficients of the equation ax+b=0: 2 5
->>> x=-2.500
+Enter your choice(1-4):
+        >>> 1
+Enter the equation of the form ax+b=0:
+        >>> 2x+5=0
+        >>> x=-2.500
 ```
 
 ### Quadratic Equation
 
 ```
-Enter the coefficients of the equation ax^2+bx+c=0: 1 -3 2
->>> x=2.00,1.00
+Enter your choice(1-4):
+        >>> 2          
+Enter the equation of the form ax^2+bx+c=0:
+        >>> 1x^2-3x+2=0
+        >>> x=2.00, 1.00
 ```
 
 ### System of Linear Equations
 
 ```
-Enter the coefficients of the equation a1x+b1y+c1=0: 2 3 4
-Enter the coefficients of the equation a2x+b2y+c2=0: 1 -1 -3
->>> x=1.000, y=-2.000
+Enter your choice(1-4):
+        >>> 3
+Enter the equation of the form a1x+b1y+c1=0:
+        >>> 2x+3y+4=0
+Enter the equation of the form a2x+b2y+c2=0:
+        >>> 1x-1y-3=0
+        >>> x=1.000, y=-2.000
 ```
 
 ## Contributors
