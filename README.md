@@ -55,4 +55,11 @@ Enter the coefficients of the equation a2x+b2y+c2=0: 1 -1 -3
 >>> x=1.000, y=-2.000
 ```
 
+## Contributors
+
+- Shardul Vikram Singh - B23CS1067
+- Sarthak Bhiwaji Kolekar - B23CS1065
+- Bhaskar Sharma - B23BB1012
+- Murali Krishna - B23PH1014
+
 ---
