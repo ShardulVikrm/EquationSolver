@@ -29,7 +29,7 @@ Follow the on-screen instructions to choose the type of equation you want to sol
 - Enter `3` to solve a System of Linear Equations.
 - Enter `4` to exit the program.
 
-Note: Always write the coefficient before a variable, even if it is 1 or 0. For example, instead of x^2 - 2 = 0, write 1x^2 + 0x - 2 = 0.
+Note: Always write the coefficient before a variable, even if it is 1 or 0. For example, instead of x^2-2=0, write 1x^2+0x-2=0.
 
 ## Examples
 
