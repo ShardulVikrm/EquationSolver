@@ -14,7 +14,7 @@ void printInstructions(){
     printf("Enter 4 to exit the program\n");
     printf("+------------------------------------------------------------------------+\n");
     printf("| Always write the coefficient before a variable, even if it is 1 or 0.  |\n");
-    printf("| For example, instead of x^2 - 2 = 0, write 1x^2 + 0x - 2 = 0.          |\n");
+    printf("| For example, instead of x^2-2=0, write 1x^2+0x-2=0.                    |\n");
     printf("+------------------------------------------------------------------------+\n\n");
 }
 int solveLinearEquation(){
