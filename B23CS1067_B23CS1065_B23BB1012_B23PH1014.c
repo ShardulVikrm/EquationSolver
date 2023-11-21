@@ -55,7 +55,10 @@ int solveQuadraticEquation(){
             printf("INVALID INPUT. RUN THE PROGRAM AGAIN\n");
             return -1;
         }
-    
+        if(a==0){
+            printf("\t>>> Not a quadratic equation");
+            return 0;
+        }
     
     double D;
     D = b*b-4*a*c;
